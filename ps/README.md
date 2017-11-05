@@ -1,6 +1,6 @@
 # Instructions & Requirements of PS
 
-All instructions are copied from official application websites by [Wenhan](mailto:wenhanshi2018@gmail.com)
+The content is collected for providing basic information and instructions on how to write a template for your PS, including the word limitation and topics that should be included. All instructions are copied from official application websites by [Wenhan](mailto:wenhanshi2018@gmail.com). Hope this will be helpful to your applicatinos. Good luck!
 
 ## MCDS @ CMU
 
