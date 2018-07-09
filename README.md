@@ -12,4 +12,8 @@ Initially, this collection is only designed for preparing the applications for 2
 
 We're sharing them here for all BUPTers to learn more about programs, including CS, EE, MIS, etc. Feel free to put the issues and update the list and files.
 
+## Update
+
+I will attend CS@UIUC in fall, 2018. The other admissions include CS@Columbia, CSE@UCSD, Connective Media@Cornell Tech, CS@USC and DS@USC. See the [summary]() to my 2018-fall application. Hope the docs and result are helpful to you applicants.
+
 by [Wenhan](mailto:wenhanshi2018@gmail.com)
