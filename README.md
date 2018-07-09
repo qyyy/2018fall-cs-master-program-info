@@ -14,6 +14,6 @@ We're sharing them here for all BUPTers to learn more about programs, including 
 
 ## Update
 
-I will attend CS@UIUC in fall, 2018. The other admissions include CS@Columbia, CSE@UCSD, Connective Media@Cornell Tech, CS@USC and DS@USC. See the [summary](https://github.com/wenhanshi/2018fall-cs-master-program-info/blob/master/summary/summary.md) to my 2018-fall application. Hope the docs and result are helpful to you applicants.
+I will attend CS@UIUC in fall, 2018. The other admissions include CS@Columbia, CSE@UCSD, Connective Media@Cornell Tech, CS@USC and DS@USC. See the [summary](https://github.com/wenhanshi/2018fall-cs-master-program-info/blob/master/summary/summary.md) (in Chinese) to my 2018-fall application. Hope the docs and result are helpful to you applicants.
 
 by [Wenhan](mailto:wenhanshi2018@gmail.com)
