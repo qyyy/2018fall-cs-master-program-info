@@ -26,7 +26,7 @@ wenhanshi2018 aite gmail dian com
 ## AD／OFFER    
 ||录取状态|国家|学校|专业/方向|Ms/PhD|奖学金情况|提交申请/收到结果日期|
 |---|---|---|---|---|---|---|---|
-|1|AD|USA|UIUC|MCS|Ms|None|Nov. /Mar. 22|
+|1|AD|USA|UIUC|MCS|Ms|TA full tuition waiver + 2400/m*|Nov. /Mar. 22|
 |2|AD|USA|Columbia|CS|Ms|None|Nov. /Feb. 23|
 |3|AD|USA|UCSD|CSE|Ms|None|Nov. /Mar. 16|
 |4|AD|USA|Cornell Tech|Connective Media|Dual Ms|None|Nov. /Apr. 7|
@@ -43,7 +43,9 @@ wenhanshi2018 aite gmail dian com
 |15|REJ|USA|UMich|CSE|Ms|N/A|Nov. /Apr. 10|
 |16|REJ|USA|UCLA|CS|Ms|N/A|Nov. /Apr. 15|
 |17|REJ|USA|Columbia|DS|Ms|N/A|Nov. /Apr. 5|
-|18|PENDING|USA|Brown|CS|Ms|N/A|Nov. /None|   
+|18|PENDING|USA|Brown|CS|Ms|N/A|Nov. /None|
+
+\* 申请到了TA，免了当学期的学费，每个月给2400刀补贴，每周需工作20h。基本要求是TOEFL口语过24，如果没过需要额外参加考试。MCS的学生是可以申请TA/RA并获得免学费的，但样本有限，有一定的运气成分在里面，并不是100%保证的。
 
 ## Chicken Soup Time
 
